@@ -30,13 +30,11 @@ const SwatchName = styled.Text`
 const Ampersand = styled.Text`
   color: #f3f3f3;
   font-size: 120px;
-  font-family: Himalaya;
   line-height: 144px;
 `;
 
 const Title = styled.Text`
   font-size: 24px;
-  font-family: "GT America";
   font-weight: bold;
   padding: 4px;
 `
