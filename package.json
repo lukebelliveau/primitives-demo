@@ -8,7 +8,9 @@
     "render": "skpm build --watch --run",
     "render:once": "skpm build --run",
     "link-plugin": "skpm link",
-    "sketch": "cd ./sketch && yarn render"
+    "postinstall": "cd ./web && yarn install",
+    "sketch": "cd ./sketch && yarn render",
+    "web": "cp ./example.js ./web/src/example.js && cd ./web && yarn start"
   },
   "author": "Luke Belliveau <luke.belliveau@gmail.com>",
   "license": "MIT",
