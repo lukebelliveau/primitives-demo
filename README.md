@@ -9,4 +9,4 @@ To see your component in a browser, run `yarn web` and point your browser to `lo
 
 To see your component on your Android or iOS device, run `yarn native`. You'll need [Expo](https://expo.io/).
 
-Inspired by the excellent [react-sketchapp](https://github.com/airbnb/react-sketchapp)'s [styled-components](https://github.com/styled-components/styled-components) demo.
+Inspired by the excellent [react-sketchapp](https://github.com/airbnb/react-sketchapp)'s demo of the also excellent [styled-components](https://github.com/styled-components/styled-components).
