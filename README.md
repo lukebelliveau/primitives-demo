@@ -7,6 +7,6 @@ To see your component in Sketch, open Sketch and run `yarn sketch`.
 
 To see your component in a browser, run `yarn web` and point your browser to `localhost:3000`.
 
-To see your component on your Android or iOS device, run `yarn native`. You'll need [Expo](https://expo.io/).
+To see your component on your Android or iOS device, run `yarn native`. You'll need the [Expo app](https://expo.io/).
 
 Inspired by the excellent [react-sketchapp](https://github.com/airbnb/react-sketchapp)'s demo of the also excellent [styled-components](https://github.com/styled-components/styled-components).
