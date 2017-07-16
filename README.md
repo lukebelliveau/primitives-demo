@@ -1,7 +1,7 @@
 # primitives-demo
-Demoing react-primitives &amp; styled-components on web, native, VR and sketch
+Write a UI in React and view it on web, native, and Sketch. VR coming soon!
 
-To get started, edit `example.js`.
+To get started, edit `example.js`. The default export of `example.js` is what will render to the platform of your choice.
 
 To see your component in Sketch, open Sketch and run `yarn sketch`.
 
